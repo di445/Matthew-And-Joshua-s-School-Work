@@ -93,3 +93,5 @@ Observation of rotifers Observe the prepared slide Rotifers on low magnifcation.
 Make a sketch one one individual
 
 Notice the crown of cilia at one end of the organism. That is the head of the creature. Move the specimen so the head is in the center of the field and increase the magnification.
+
+Experiment 13.1
